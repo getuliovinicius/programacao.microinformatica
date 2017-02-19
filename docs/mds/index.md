@@ -1,11 +1,11 @@
 # programacao.microinformatica
 
 
-## Repositório no Github
+## Repositório no Github:
 
-Acesse os exercícios no Repositório do Github [programacao.orientada.objeto](https://github.com/getuliovinicius/programacao.microinformatica).
+Acesse os exercícios no Repositório do Github [programacao.microinformatica](https://github.com/getuliovinicius/programacao.microinformatica).
 
-## Descrição
+## Descrição:
 
 Exercícios da disciplina de Programação em Microinformática do curso de Analise e Desenvolvimento de Sistemas da FATEC de Franca.
 
