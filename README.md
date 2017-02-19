@@ -1,6 +1,6 @@
 # programacao.microinformatica
 
-# Descrição
+# Descrição:
 
 Exercícios da disciplina de Programação em Microinformática do curso de Analise e Desenvolvimento de Sistemas da FATEC de Franca.
 
