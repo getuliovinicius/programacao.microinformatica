@@ -1,6 +1,11 @@
 # programacao.microinformatica
 
-# Descrição
+
+## Repositório no Github
+
+Acesse os exercícios no Repositório do Github [programacao.orientada.objeto](https://github.com/getuliovinicius/programacao.microinformatica).
+
+## Descrição
 
 Exercícios da disciplina de Programação em Microinformática do curso de Analise e Desenvolvimento de Sistemas da FATEC de Franca.
 
@@ -13,4 +18,9 @@ Os exercícios foram feitos em sala de aula utilizando:
 - Sistema Operacional: Windows 10.
 
 No repositório estão os arquivos \*.xlsm.
+
+## Licença:
+
+[GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007](https://github.com/getuliovinicius/programacao.microinformatica/blob/master/LICENSE).
+
 
